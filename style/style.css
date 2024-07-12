@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.row img{
+    height:730px;
+    width: 100%;
+    z-index: -1; 
+    
+}
+.div{
+    z-index: 1;
+    position: relative;
+    bottom: 40rem;
+    text-align: center; 
+    color: rgb(10, 10, 10);   
+}
+.div p{
+    margin:70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(255, 255, 255)
+    
+}
+.col-6 h1{
+    text-align: center;
+    margin-top: 180px;
+}
+.col-6 .form-control1 {
+        margin-top: 40px;
+        margin-left: 180px;
+        width: 300px;
+}
+.col-6 .form-control2{
+
+    margin-top: 40px;
+    margin-left: 180px;
+        width: 300px;
+}
+.col-6 .para{
+    margin: 10px;
+    margin-left: 320px;
+    width:180px;
+    
+}
+.col-6 h1{
+    color: rgb(61, 127, 163);
+}
+.col-6 p{
+    text-align: center;
+}
+.col-6 button{
+    --bs-btn-padding-y: .25rem;
+     --bs-btn-padding-x: .5rem;
+      --bs-btn-font-size: .75rem;
+     margin-left:300px ;
+}
+.col-6 i{
+    font-size: 50px;
+
+    margin-left: 200px;
+    margin-top: 20px;
+    color: rgb(112, 112, 212);
+    background-color: rgb(194, 193, 192);
+}
+.row .para2{
+    margin-left: 10px;
+    margin-top: 10px;
+} 
+.col-6 hr{
+    width: 185px;
+    margin-left: 215px;
+}
+.col-6 h4{
+    margin:-34px 0px 0px 300px;
+    margin-right: 20px;
+    height:20px;
+    color: grey;
+    
+    
+}
